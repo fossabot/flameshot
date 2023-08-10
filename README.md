@@ -49,9 +49,13 @@
 
 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabdulrafaykhan%2Fflameshot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabdulrafaykhan%2Fflameshot?ref=badge_large)
+
 ## Preview
 
 ![image](https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/preview/animatedUsage.gif)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabdulrafaykhan%2Fflameshot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabdulrafaykhan%2Fflameshot?ref=badge_shield)
 
 ## Index
 
